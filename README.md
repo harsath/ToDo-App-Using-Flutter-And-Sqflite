@@ -1,16 +1,23 @@
-# mydb_todo
+# ToDo App(Android and iOS)
 
-A new Flutter project.
+### This is a Hybrid App Written Using Flutter(Dart) Framework For Both Android And iOS Platforms. I Have Included Link To The APP Down The ReadMe. Click And Download The Android APK
 
-## Getting Started
+> # Todo List Page
+![Screenshot 2019-06-10 at 4 08 06 PM](https://user-images.githubusercontent.com/30565388/59191453-3792ba80-8b9d-11e9-9077-f3e8e436b4b2.png)
+### This Page Will Display The List Of Tasks From The Database On The Phone
 
-This project is a starting point for a Flutter application.
+> # Add Task Page
+![Screenshot 2019-06-10 at 2 46 52 PM](https://user-images.githubusercontent.com/30565388/59191514-5b560080-8b9d-11e9-976f-f13d77f17d15.png)
+### We Can Add Task To Our List On The Basis Of Priority And Store It Into Database
 
-A few resources to get you started if this is your first Flutter project:
+> # Exit Screen
+![Screenshot 2019-06-10 at 4 16 03 PM](https://user-images.githubusercontent.com/30565388/59191537-6b6de000-8b9d-11e9-9699-f1482f49d3f7.png)
+### This Is Exit Page With Little PopUp Screen With `WillPopScope`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Stuff  Used
+--------------
+Database | Sqflite
+Framework | Flutter
+Programming Language | Dart
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
